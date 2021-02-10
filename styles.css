@@ -1,1 +1,43 @@
 @import url(body.css);
+
+
+
+body {
+    font-family: Helvetica;
+    font-size: 12px;
+    background: rgb(161, 161, 161);
+    color: rgb(0, 0, 0);
+}
+
+/* Header Logo */
+.header {
+    padding: 5px;
+    font-size: 20px;
+    font-family:'Gill Sans';
+    text-align: center;
+    background: rgb(128, 177, 150);
+    color: white;
+}
+
+/* Header Menu*/
+.column {
+    float:left;
+    text-align: center;
+    color: rgb(54, 87, 68);
+    background: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    width: 33.33%;
+}
+
+/* Vorschau */
+.vorschau {
+    padding:120px;
+    text-align: center;
+    background: rgb(212, 212, 212);
+}
+/* Fülltext */
+.main {
+    padding: 2‚0px;
+}
