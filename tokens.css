@@ -1,0 +1,56 @@
+/* TOKENS */
+
+
+/* UNITS & COLORS */
+
+:root {
+
+    /* Units */
+    --unit-s: 8px;
+    --unit-m: 16px;
+    --unit-l: 32px;
+    --unit-xl: 64px;
+
+    /* Colors */
+    --color-black: rgb(0, 0, 0);
+    --color-grey: rgb(219, 219, 219);
+    --color-white: rgb(255, 255, 255);
+
+    --color-primary: rgb(187, 181, 128);
+
+    --color-secondary-dark: rgb(52, 78, 118);
+    --color-secondary: rgb(94, 121, 160);
+    --color-secondary-light: rgb(150, 174, 210);
+
+    background:var(--color-white);
+}
+
+
+
+/* FONTS */
+
+/* Überschriften */
+h1 {
+    font-family: poppins;
+    font-size: 30px;
+    color:var(--color-primary);
+}
+
+h2 {
+    font-family: poppins;
+    font-size: 25px;
+    color:var(--color-secondary);
+}
+
+h3 {
+    font-family: poppins;
+    font-size: 18px;
+    color:var(--color-secondary-light);
+}
+
+/* Texte */
+p {
+    padding-inline-start: 20px;
+    font-family: poppins;
+    font-size: 15px;
+}

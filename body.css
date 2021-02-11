@@ -1,0 +1,14 @@
+/* BODY */
+
+
+/* Vorschau für Bilder */
+.vorschau {
+    padding:140px;
+    text-align: center;
+    color: var(--color-white);
+    background:var(--color-secondary);
+    font-family: poppins;
+    font-size: 20px;
+    font-style: italic;
+}
+
