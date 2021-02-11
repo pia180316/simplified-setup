@@ -1,13 +1,32 @@
+@import url(header.css);
 @import url(body.css);
+@import url(footer.css);
 @import url(tokens.css);
 
 
+
+:root {
+
+    /* Units */
+    --unit-s: 8px;
+    --unit-m: 16px;
+    --unit-l: 32px;
+
+    /* Colors */
+    --color-primary: ;
+    --color-secondary: ;
+
+}
+
 body {
-    font-family: Helvetica;
+    font-family: 'Gill Sans';
     font-size: 12px;
     background: rgb(243, 243, 243);
     color: rgb(0, 0, 0);
 }
+
+
+
 
 /* Header Logo */
 .header {
@@ -19,6 +38,7 @@ body {
     color: white; 
 }
 
+/* Navigation */
 .navi {
     float:left;
     text-align: center;
@@ -30,6 +50,10 @@ body {
     width: 33.33%;
 }
 
+
+
+
+
 /* Vorschau */
 .vorschau {
     padding:120px;
@@ -40,3 +64,4 @@ body {
 .main {
     padding: 2‚0px;
 }
+
