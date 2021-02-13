@@ -3,7 +3,7 @@
 
 /* Vorschau für Bilder */
 .vorschau {
-    padding:140px;
+    padding:9em;
     text-align: center;
     color: var(--color-white);
     background:var(--color-secondary);
@@ -12,3 +12,12 @@
     font-style: italic;
 }
 
+/* Fülltext */
+.fülltext {
+    padding: 3em;
+}
+.fliestext {
+    column-count: 3;
+    column-gap: 2em;
+    column-rule-color: var(--color-primary);
+}

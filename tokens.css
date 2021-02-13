@@ -50,7 +50,8 @@ h3 {
 
 /* Texte */
 p {
-    padding-inline-start: 20px;
+    margin-block-start: 0em;
+    margin-inline-end: 0em;
     font-family: poppins;
     font-size: 15px;
 }

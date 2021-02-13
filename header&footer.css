@@ -3,7 +3,7 @@
 
 /* Logo */
 .logo {
-    padding: 5px;
+    padding: 0,9em;
     text-align: center;
     color: var(--color-white);
     background: var(--color-primary);
@@ -12,16 +12,17 @@
     font-style:normal;
 }
 
+
 /* Navigation */
 .navi {
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 0,9em;
+    padding-bottom: 0,9em;
     float:left;
     width: 33.33%;
     text-align: center;
     color:var(--color-secondary-dark);
     background: var(--color-grey);
     font-family: poppins;
-    font-size: 18px;
+    font-size: 20px;
     font-style: normal;
 }
