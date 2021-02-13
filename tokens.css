@@ -1,10 +1,7 @@
 /* TOKENS */
 
 
-/* UNITS & COLORS */
-
 :root {
-
     /* Units */
     --unit-s: 8px;
     --unit-m: 16px;
@@ -23,11 +20,8 @@
     --color-secondary-light: rgb(150, 174, 210);
 
     background-color:var(--color-white);
-
 }
 
-
-/* FONTS */
 
 /* Überschriften */
 h1 {
