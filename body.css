@@ -3,21 +3,21 @@
 
 /* Vorschau für Bilder */
 .vorschau {
-    padding:9em;
+    padding: 9em;
     text-align: center;
     color: var(--color-white);
-    background:var(--color-secondary);
+    background-color: var(--color-secondary);
     font-family: poppins;
     font-size: 20px;
     font-style: italic;
 }
 
 /* Fülltext */
-.fülltext {
-    padding: 3em;
+.fuelltext {
+    padding: var(--unit-xl);
 }
 .fliestext {
     column-count: 3;
-    column-gap: 2em;
+    column-gap: var(--unit-l);
     column-rule-color: var(--color-primary);
 }

@@ -1,0 +1,25 @@
+/* HEADER */
+
+
+/* Logo header */
+.logoheader {
+    padding: var(--unit-s);
+    text-align: center;
+    color: var(--color-white);
+    background-color: var(--color-primary);
+    font-family: Poppins;
+    font-size: 45px;
+}
+
+
+/* Navigation header*/
+.row > .navi {
+    padding-top: var(--unit-s);
+    padding-bottom: var(--unit-s);
+    float: left;
+    width: 33.33%;
+    text-align: center;
+    color: var(--color-secondary-dark);
+    background-color: var(--color-grey);
+    font-family: poppins;
+}
