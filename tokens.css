@@ -23,8 +23,8 @@
     --color-secondary-light: rgb(150, 174, 210);
 
     background-color:var(--color-white);
-}
 
+}
 
 
 /* FONTS */
@@ -46,6 +46,7 @@ h3 {
     font-family: poppins;
     font-size: 18px;
     color: var(--color-secondary-light);
+    margin: 0em;
 }
 
 /* Texte */
@@ -54,4 +55,10 @@ p {
     margin-inline-end: 0em;
     font-family: poppins;
     font-size: 15px;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: var(--color-secondary);
 }
