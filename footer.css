@@ -16,7 +16,7 @@
     padding: var(--unit-l);
     column-count: 3;
     column-gap: 5em;
-    text-align: start;
+    text-align: center;
     color: var(--color-secondary-dark);
     background-color: var(--color-grey);
     font-family: poppins;
